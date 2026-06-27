@@ -1,2 +1,2 @@
-Team meeting was boring!
+Team meeting was great!
 Day2: Learned git add and git commit
