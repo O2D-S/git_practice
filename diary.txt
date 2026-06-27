@@ -1,1 +1,2 @@
 1日目の日記
+Day2: Learned git add and git commit
