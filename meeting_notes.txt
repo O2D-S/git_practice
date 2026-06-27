@@ -1,0 +1,1 @@
+Meeting on June 27: Discussed Git workflow
