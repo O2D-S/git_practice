@@ -1,2 +1,2 @@
-1日目の日記
+Team meeting was boring!
 Day2: Learned git add and git commit
